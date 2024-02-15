@@ -1,0 +1,16 @@
+a=1000
+b=2000
+c=3000
+a=c
+b=a
+c=4000
+b=a
+e=c
+f=b
+d=b
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)

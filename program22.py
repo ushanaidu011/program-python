@@ -1,0 +1,10 @@
+a=25
+b=50
+c=75
+d=100
+e=125
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
