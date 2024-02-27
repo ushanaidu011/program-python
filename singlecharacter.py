@@ -1,0 +1,12 @@
+st="hero"
+v=st[1]
+print(v)
+print(st[0])
+print(st[-1])
+s1={1,2,3,4}
+print(type(s1))
+print(s1)
+s4={1,2,1,1,1,5,6,7,10,3}
+print(s4)
+s5={"raja",[1,2,3,4]}
+print(s5)
